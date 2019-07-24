@@ -1,0 +1,2 @@
+# DDYCameraSwift
+相机的封装，能够拍摄图片和录制视频，可以利用现成的控制器，也可以用DDYCameraManager加自定义UI
